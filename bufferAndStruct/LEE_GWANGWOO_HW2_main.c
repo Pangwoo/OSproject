@@ -1,14 +1,15 @@
 /**************************************************************
 * Class:  CSC-415-0# Spring 2023
-* Name:
-* Student ID:
+* Name: Gwangwoo Lee
+* Student ID: 922784535
 * GitHub UserID: Pangwoo
 * Project: Assignment 2 – Stucture in Memory and Buffering
 *
-* File: <name of this file>
+* File: LEE_GWANGWOO_HW2_main.c
 *
-* Description:
-*
+* Description: This project focuses on low-level memory handling and data buffering in C.
+* It involves allocating and populating structured data in memory, managing block-based buffering, 
+* and interfacing with precompiled binary APIs to validate correctness.
 **************************************************************/
 
 #include <stdio.h>
