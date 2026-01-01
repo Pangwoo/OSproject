@@ -11,7 +11,7 @@ determine the **top 10 most frequent words**.
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 - Multithreaded programming using **POSIX threads**
 - File I/O using **Linux system calls** (`open`, `read`, `lseek`, `pread`)
 - Synchronization with **mutex locks**
@@ -21,7 +21,7 @@ determine the **top 10 most frequent words**.
 
 ---
 
-## 🧵 Program Design
+## Program Design
 
 ### Thread Model
 - The input file is split into **N chunks**, where `N` is the number of threads
@@ -37,7 +37,7 @@ determine the **top 10 most frequent words**.
 
 ---
 
-## ⚙️ Command Line Usage
+## Command Line Usage
 ```bash
 ./<program> <FileName> <ThreadCount>
 $ make run
